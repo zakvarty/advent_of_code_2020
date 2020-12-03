@@ -21,6 +21,7 @@ The input file is a discrete-time ski slope where "." is snow and ""#" is a tree
 _Task 1_:  You choose to move right 3 characters and down 1 line at each time step. How many trees would you hit on your way down the mountain? :heavy_check_mark: 
 
 _Task 2_:  What is the product of the number of trees you would hit taking using each of the following gradients? :heavy_check_mark: 
+	
 	- Right 1, down 1.
 	- Right 3, down 1. (This is the slope you already checked.)
 	- Right 5, down 1.
