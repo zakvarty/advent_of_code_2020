@@ -29,3 +29,10 @@ _Task 2_:  What is the product of the number of trees you would hit taking using
 	- Right 1, down 2.
 
 
+## Day 4 - Passport Processing :passport_control: :
+
+_Task 1_:  Count the number of documents that have fields for all the required information  :heavy_check_mark: 
+
+_Task 2_:  Count the number of documents that have fields for all the required information and this information is given in the correct format :heavy_check_mark: 
+
+
