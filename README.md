@@ -36,3 +36,9 @@ _Task 1_:  Count the number of documents that have fields for all the required i
 _Task 2_:  Count the number of documents that have fields for all the required information and this information is given in the correct format :heavy_check_mark: 
 
 
+## Day 5 - Binary Boarding :seat: :
+
+_Task 1_:  Convert binary seat allocations to seat IDs. What is the highest seat ID?  :heavy_check_mark: 
+
+_Task 2_:  Some seats are missing at the front and back of this plane, but all existing seats are taken. What is your seat ID?  :heavy_check_mark: 
+
