@@ -42,3 +42,9 @@ _Task 1_:  Convert binary seat allocations to seat IDs. What is the highest seat
 
 _Task 2_:  Some seats are missing at the front and back of this plane, but all existing seats are taken. What is your seat ID?  :heavy_check_mark: 
 
+
+##  Day 6 - Custom Customs :customs: :
+
+_Task 1_:  For each group of strings (blank lines separate groups) find the number of unique letters within that group. What is the sum over all groups?  :heavy_check_mark: 
+
+_Task 2_:  For each group of strings (blank lines separate groups) find the number of letters within all strings of that group. What is the sum over all groups?  :heavy_check_mark: 
