@@ -48,3 +48,11 @@ _Task 2_:  Some seats are missing at the front and back of this plane, but all e
 _Task 1_:  For each group of strings (blank lines separate groups) find the number of unique letters within that group. What is the sum over all groups?  :heavy_check_mark: 
 
 _Task 2_:  For each group of strings (blank lines separate groups) find the number of letters within all strings of that group. What is the sum over all groups?  :heavy_check_mark: 
+
+
+##  Day 6 - Handy Haversacks :school_satchel: :
+*Key words:* recursion, regex.
+
+_Task 1_: How many bags that contain at least one "shiny gold" bag?  :heavy_check_mark: 
+
+_Task 2_:  How many bags are nested in a "shiny gold" bag?  :heavy_check_mark: 
