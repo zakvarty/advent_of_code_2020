@@ -51,8 +51,8 @@ _Task 2_:  For each group of strings (blank lines separate groups) find the numb
 
 
 ##  Day 6 - Handy Haversacks :school_satchel: :
-*Key words:* recursion, regex.
+__Key words:__ recursion, regex.
 
-_Task 1_: How many bags that contain at least one "shiny gold" bag?  :heavy_check_mark: 
+_Task 1_: How many bagscontain at least one "shiny gold" bag?  :heavy_check_mark: 
 
 _Task 2_:  How many bags are nested in a "shiny gold" bag?  :heavy_check_mark: 
