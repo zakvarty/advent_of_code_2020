@@ -12,7 +12,7 @@ number <- str_extract_all(string = input, pattern = "[0-9](?= .*? bag)") %>%
 names(bags) <- str_extract_all(string = input, pattern = "(?<=\n|^).*?(?= bags)")
 names(number) <- names(bags)
 
-## Part one: How many bags that contain at least one gold bag? ----
+## Task one: How many bags that contain at least one gold bag? ----
 contains_shiny_gold <- function(bag_colour, bags_obj){
   sub_bags <- bags_obj[[bag_colour]]
   n_sub_bags <- length(sub_bags)
@@ -36,7 +36,7 @@ contains_shiny_gold <- function(bag_colour, bags_obj){
 map_lgl(names(bags), contains_shiny_gold, bags_obj = bags) %>%
   sum()
 
-## Part two: How many bags are nested in a shiny gold bag? ----
+## Task two: How many bags are nested in a shiny gold bag? ----
 n_sub_bags <- function(bag_colour, bags_obj, num_obj){
   sub_bag_count <- 0
 

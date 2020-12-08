@@ -50,9 +50,18 @@ _Task 1_:  For each group of strings (blank lines separate groups) find the numb
 _Task 2_:  For each group of strings (blank lines separate groups) find the number of letters within all strings of that group. What is the sum over all groups?  :heavy_check_mark: 
 
 
-##  Day 6 - Handy Haversacks :school_satchel: :
+##  Day 7 - Handy Haversacks :school_satchel: :
 __Key words:__ recursion, regex.
 
 _Task 1_: How many bagscontain at least one "shiny gold" bag?  :heavy_check_mark: 
 
 _Task 2_:  How many bags are nested in a "shiny gold" bag?  :heavy_check_mark: 
+
+
+##  Day 8 - Handheld Halting :stop_sign: :
+__Key words:__ looping, str_replace()
+
+_Task 1_: What is the value of the accumulator just before the infinite loop begins?  :heavy_check_mark: 
+
+_Task 2_:  Change one "jmp" to "nop" (or the other way around) so that the end of file is reached.  What is the final accumulator value?  :heavy_check_mark: 
+
