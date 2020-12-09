@@ -65,3 +65,11 @@ _Task 1_: What is the value of the accumulator just before the infinite loop beg
 
 _Task 2_:  Change one "jmp" to "nop" (or the other way around) so that the end of file is reached.  What is the final accumulator value?  :heavy_check_mark: 
 
+##  Day 9 - Encoding Error :left_luggage: :
+__Key words:__ 
+
+_Task 1_: A number is valid if if can be expressed as the sum of two of the previous ```preamble_length``` numbers. Find the value of the first number that is not valid. :heavy_check_mark:
+
+_Task 2_:  Find the contiguous subset of the numbers that sum to the previous answer. What is the sum of the largest and smallest numbers in this set?:heavy_check_mark: 
+
+
