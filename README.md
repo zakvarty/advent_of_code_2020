@@ -72,4 +72,11 @@ _Task 1_: A number is valid if if can be expressed as the sum of two of the prev
 
 _Task 2_:  Find the contiguous subset of the numbers that sum to the previous answer. What is the sum of the largest and smallest numbers in this set?:heavy_check_mark: 
 
+##  Day 10 - Adaptor Array :electric_plug: :
+__Key words:__ Combinatorics, suppressing scientific notation
+
+_Task 1_: Using all adaptors, find the number of 1 and 3 jolt differences. What is their product? :heavy_check_mark:
+
+_Task 2_:  Find the number of valid adaptor combinations. (Gah.) :heavy_check_mark:
+
 
