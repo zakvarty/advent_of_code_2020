@@ -80,3 +80,9 @@ _Task 1_: Using all adaptors, find the number of 1 and 3 jolt differences. What 
 _Task 2_:  Find the number of valid adaptor combinations. (Gah.) :heavy_check_mark:
 
 
+##  Day 11 - Seating System :chair: :
+__Key words:__ Image smoothing, queen-neighbours
+
+_Task 1_: Update seat occupancy based on number of occupied neighbours and the given rules. When this converges, how many occupied seats are there? :heavy_check_mark:
+
+_Task 2_:  The decison rules have changed. They are now based on the queen-neighbour count and maximum of  5 neighbours. How many occupied seats at convergence now? :heavy_check_mark: (look at smarter solutions)

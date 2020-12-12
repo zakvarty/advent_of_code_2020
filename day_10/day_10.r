@@ -1,4 +1,4 @@
-## AOC 2020 - Day 1-: Adapter Array ------------------------------------------
+## AOC 2020 - Day 10: Adapter Array ------------------------------------------
 library(tidyverse)
 input <- as.integer(readLines("~/GitHub/advent_of_code_2020/day_10/input.txt"))
 input <- as.integer(readLines("~/GitHub/advent_of_code_2020/day_10/test_input_1.txt"))
